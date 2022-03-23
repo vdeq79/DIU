@@ -37,19 +37,21 @@ angular.module("angular", [])
 				Photo: "guiri.png",
 				Quote: "Si la vida te da limones, haz una limonada",
 				Age: 25,
-				Occupation: "Estudiante universitario de Fotografía",
+				Occupation: "Estudiante de Fotografía",
 				Family: "Soltero",
 				Location: "Galicia, Vigo",
-				Character: "Conocer gente nueva y viajar",
+				Character: "Viajar y hacer fotografías",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Tomarse unos descansos tras los estudios"],
-				Frustrations: ["No es capaz de orientarse", "Suele ser muy olvidadizo"],
-				Bio: "Acaba de terminar sus estudios y decide tomarse un año sabático donde poder realizar todo tipo de actividades con gente con la que comparta gustos y aficiones",
+				Goals: ["Disfrutar del tiempo libre, viajar", "Tomarse unos descansos tras los estudios", "Conocer la cultura Mediterránea", "Poner en práctica sus estudios"],
+				Frustrations: ["No es capaz de orientarse", "Suele ser muy olvidadizo", "Le preocupa su falta de ingresos"],
+				Bio: "Nacido en Vigo, nunca ha viajado fuera de España y rara veces fuera de Galicia. Siempre ha querido conocer mejor otras zonas de España, como el Mediterráneo,"+
+					 " pero nunca ha tenido la oportunidad de llevarlo a cabo por falta de dinero. Recientemente, acaba de terminar sus estudios, y con el dinero que tiene ahorrado con la becas, decide tomarse un año sabático para poder realizar todo"+
+					 " tipo de actividades con gente con la que comparta gustos y aficiones.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 4 },
@@ -57,7 +59,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "Puesto que le encanta el buen tiempo y la costa, ha decidido explorar el Mediterráneo",  
+                Contextos: "Puesto que le encanta el buen tiempo y la costa, ha decidido explorar el Mediterráneo y realizar fotografías",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 3 },
@@ -79,25 +81,27 @@ angular.module("angular", [])
 				Quote: "El amor abre el paréntesis, el matrimonio lo cierra",
 				Age: 34,
 				Occupation: "Forma parte de un equipo de directivos",
-				Family: "3 divorcios con 4 hijos",
+				Family: "2 divorcios con 2 hijos",
 				Location: "Madrid",
 				Character: "Simpática, trabajadora y educada",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Encontrar el amor de su vida", "Mejorar su vida profesional", "Aprender piano"],
-				Frustrations: ["Falta de tiempo", "Amores del pasado", "Ansiendad por su trabajo"],
-				Bio: "Natalia trabaja en un equipo de directivos que desarrolla aplicaciones que gestiona actividades en grupo. Ha tenido una vida sentimental complicada y está al cuidado de 4 hijos con padres diferentes",
+				Goals: ["Visitar monumentos históricos", "Tener éxito en el proyecto en el que está trabajando", "Ofrecer a sus hijos una buena educación"],
+				Frustrations: ["Falta de tiempo ", "Amores del pasado", "Ansiendad por su trabajo"],
+				Bio: "Nació en Madrid y tras graduarse en en la Complutense, Natalia trabaja actualmente"+
+				" en un equipo de directivos que desarrolla aplicaciones que gestiona actividades en grupo. Aficionada al arte y a la historia, ha tenido una vida sentimental complicada"
+				+" y está al cuidado de 2 hijos con 6 y 9 años, de padres diferentes. Sin embargo, no ha perdido la esperanza en el amor verdadero",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Mobile", Value: 2 },
 					{ Name: "RRSS", Value: 1 },
 					{ Name: "Software", Value: 5 }
 				], 
-                Contextos:   "Natalia lleva unos meses trabajando duro y decide pasar tiempo con sus hijos" ,
+                Contextos:   "Natalia lleva unos meses trabajando duro y decide viajar a Granada con sus hijos para despejarse y visitar a la Alhambra" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 3 },
 					{ Name: "Online & Social Media", Value: 2 },
