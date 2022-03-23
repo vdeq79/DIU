@@ -5,8 +5,8 @@ Grupo: DIU3.1MetaRocket.  Curso: 2021/22
 
 
 Miembros
- * :bust_in_silhouette:   XuShengZheng    :cat: 
- * :bust_in_silhouette:  Alejandro Ruíz Rodríguez    🕵️‍♂️ 
+ * :bust_in_silhouette:   XuShengZheng    🔷
+ * :bust_in_silhouette:  Alejandro Ruíz Rodríguez   🕵️‍ 
 
 ----- 
 
