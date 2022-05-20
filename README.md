@@ -12,9 +12,9 @@ Descripción:
 * Nuestro proyecto consiste en un tablón de anuncios para promover las actividades organizadas por el local, y las ofertas y promociones de las instalaciones (restaurante, habitaciones, spa...). También aparecerán comentarios y reseñas de otros usuarios. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![](https://github.com/vdeq79/DIU/blob/master/P3/logo2.png)
 
-Miembros
+Miembros:
  * :bust_in_silhouette:   XuShengZheng    🔷
  * :bust_in_silhouette:  Alejandro Ruíz Rodríguez   🕵️‍ 
 
@@ -107,47 +107,60 @@ Representa un usuario que quiere pasar tiempo con su familia y a su vez, tiene u
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+![](https://i.imgur.com/ULjzmQP.png)
 
+- ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Hoy en día vivimos en un mundo interconectado, dominado por las redes sociales y es de gran necesidad que los comercios se adapten a dicho cambio. Por ello nuestro proyecto promueve este cambio mejorando la visivilidad de las actividadeds y ofertas.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![](https://i.imgur.com/H8Wk8hB.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+Grupos de usuarios | Jóvenes | Organizador de viajes | Padre/Madre     
+| -------------     | ------- | ----| ---|
+|  Obtención de información      |  <center>Medio</center> | <center>Alto</center> | <center>Alto</center> |
+|  Ver publicaciones del tablón| <center>Alto</center> | <center>Medio</center> | <center>Medio</center> |
+|  Publicar reseñas|<center>Alto</center>| <center>Alto</center> | <center>Medio/Bajo</center> |
+|  Encontrar ofertas|<center>Alto</center>| <center>Medio</center> | <center>Bajo</center> |
+|  Buscar actividades infantiles| <center>Bajo</center>| <center>Bajo</center> | <center>Alto</center> |
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![](https://i.imgur.com/v1hPdmS.jpg)
 
->>> Identificar términos para diálogo con usuario  
+
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+|  4UBOARD  | Lista con todas las actividades organizadas disponibles |
+|  Actividad  | Permite ver los detalles de una actividad, sus reseñas y permite dejar reseña a un cliente |
+|  Reservar  | Permite reservar una plaza en una actividad especifica |
+|  Promociones  | Lista con las promociones disponibles |
+|  Contacto  | Información de contacto |
+|  FAQ  | Preguntas frecuentes |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Actividades](https://i.imgur.com/d6PYqvW.png)
 
+![Actividad](https://i.imgur.com/mj4AelC.png)
+
+![Reservar](https://i.imgur.com/mav2yuq.png)
+
+![Promocion](https://i.imgur.com/8h36MQP.png)
+ 
+![Contacto](https://i.imgur.com/G9hFLT3.png)
+
+![FAQ](https://i.imgur.com/kNIektK.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -156,35 +169,41 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![](https://i.imgur.com/rTi4ViG.jpg)
 
+
+El logotipo fue totalmente realizado con Canva, con una resolución de 600px. Este logotipo puede utilizarse perfecta como imagen de perfil para cualquier cuenta de red social.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+Se puede visitar nuestro Landing Page con el siguiente enlace: https://4uboard.webflow.io/
+
+![](https://i.imgur.com/aPLb5Ao.png)
+
+
+![](https://i.imgur.com/MtSsUOz.jpg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+ * [Tab Bar](https://material-components.github.io/material-components-web-catalog/#/component/tabs): Utilizaremos el tab bar para navegar entre las principales páginas de nuestra web.
+ * [List](https://material-components.github.io/material-components-web-catalog/#/component/list): las páginas de actividades y promociones serán esencialmente presentadas a partir de listas. Cada componente de la lista será un [Card](https://material-components.github.io/material-components-web-catalog/#/component/card) con descripción e información relacionada. En caso de actividades, también incluirán imagenes relacionados a la activadad.
+ * Barra de búsqueda: en las páginas de actividades y promociones, los usuarios podrán seleccionar los contenidos que les interesen. Será una caja de búsqueda con una caja auxiliar para filtrado.
+ *  Formularios: se utilizarán para comentar una determinada actividad, para rellenar los datos del ususario a la hora de reservar actividades o para poner en contacto con los gestores del sitio.
+ *  [Botones](https://material-components.github.io/material-components-web-catalog/#/component/button): esencialmente para enviar los formularios o para cambiar el idioma de la página. 
+ *  [Galería](https://ui-patterns.com/patterns/Gallery): Cada página de actividad también dispondrán de una galería con imágenes relacionadas a la actividad.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+Para el layout hemos utilizado Nicepage que nos permitió crear una versión demo de las páginas. Se puede acceder al demo con el siguiente enlace: https://board4u-2.nicepage.io/, teniendo en cuenta que debido a las restricciones de la aplicación, algunas funcionalidades no están implementadas (como por ejemplo el cambio de idioma).
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para la pulicación de nuestro case study, hemos adaptado toda la información para que se pueda visualizar accediendo a esta página: https://github.com/vdeq79/DIU/blob/master/README.md.
 
 
 ## Paso 4. Evaluación 
@@ -252,16 +271,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
 
 
 
