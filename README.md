@@ -1,15 +1,15 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
+Grupo: DIU3_01MetaRocket.  Curso: 2021/22 
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+* 4U BOARD
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+* Nuestro proyecto consiste en un tablón de anuncios para promover las actividades organizadas por el local, y las ofertas y promociones de las instalaciones (restaurante, habitaciones, spa...). También aparecerán comentarios y reseñas de otros usuarios. 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
