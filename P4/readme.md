@@ -1,10 +1,10 @@
-![Método UX](img/ABtesting.png) 4.a Caso asignado
+![Método UX](../img/ABtesting.png) 4.a Caso asignado
 ----
 
 Se nos ha asignado un proyecto llamado **Un toque divertido** que permite a los clientes de 4uHostel comprar entradas a discotecas, pubs y cafés. Si repositorio Github se encuentra en https://github.com/laurasanchezsanchez/DIU.
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+![Método UX](../img/usability-testing.png) 4.b User Testing
 ----
 
 
@@ -16,7 +16,7 @@ Se nos ha asignado un proyecto llamado **Un toque divertido** que permite a los 
 | Lucía  | M / 19   | Estudiante  | Alta       | Racional, divertida     | Móvil        | B 
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](../img/Survey.png). 4.c Cuestionario SUS
 ----
 
 
@@ -38,7 +38,7 @@ Se nos ha asignado un proyecto llamado **Un toque divertido** que permite a los 
 **Valoración personal:** Como se puede apreciar, la valoración en ambos proyectos es muy similar para perfiles jóvenes. Para personas de mayor edad y menos familializadas con las aplicaciones móviles, el proyecto B es penalizado principalmente por la gama de colores que han utilizado dando una impresión de mayor complejidad.
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+![Método UX](../img/usability-report.png) 4.d Usability Report
 ----
 
 El report de usabilidad se puede ver en el siguiente enlace: https://github.com/vdeq79/DIU/blob/master/P4/DIU_report-template-usability-testOK.pdf.
