@@ -212,65 +212,46 @@ Para la pulicación de nuestro case study, hemos adaptado toda la información p
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Se nos ha asignado un proyecto llamado **Un toque divertido** que permite a los clientes de 4uHostel comprar entradas a discotecas, pubs y cafés. Si repositorio Github se encuentra en https://github.com/laurasanchezsanchez/DIU.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Perfil cubierto | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Alicia | M / 50   | Estudiante  | Media       | Madre de familia, trabajadora y alegre | Web       | A 
+| Andrea  | M / 20   | Estudiante  | Media       | Social, emprendedora       | Web        | A 
+| Paco  | H / 56   | Abogado     | Baja        | Serio, triste    | Móvil      | B 
+| Lucía  | M / 19   | Estudiante  | Alta       | Racional, divertida     | Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+|| Preguntas | Valoración Alicia (1-5)  | Valoración Andrea (1-5) | Valoración Paco (1-5) | Valoración Lucía (1-5)
+|-|-|-|-|-|-
+1| Creo que me gustará visitar con frecuencia este website |4|5|2|5|
+2| Encontré el website innecesariamente complejo |1|1|3|1|
+3| Pensé que era fácil utilizar este website |5|5|3|4|
+4| Creo que necesitaría del apoyo de un experto para recorrer el website |1|1|2|1|
+5| Encontré las funciones del website bastante bien integradas |5|5|4|4|
+6| Pensé que había demasiada inconsistencia en el website |1|2|3|1|
+7| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |5|5|3|4|
+8| Encontré el website muy grande al recorrerlo |2|1|3|1|
+9| Me sentí muy confiado en el manejo del website |5|5|3|4|
+10| Necesito aprender muchas cosas antes de manejarse en el website |1|1|2|1|
+**Score** | | 95| 97.5 | 55 | 90 |
+
+
+**Valoración personal:** Como se puede apreciar, la valoración en ambos proyectos es muy similar para perfiles jóvenes. Para personas de mayor edad y menos familializadas con las aplicaciones móviles, el proyecto B es penalizado principalmente por la gama de colores que han utilizado dando una impresión de mayor complejidad.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+El report de usabilidad se puede ver en el siguiente enlace: https://github.com/vdeq79/DIU/blob/master/P4/DIU_report-template-usability-testOK.pdf.
 
 
